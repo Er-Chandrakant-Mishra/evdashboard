@@ -1,6 +1,6 @@
 {
+  "homepage": "http://er-chandrakant-mishra.github.io/evdashboard",
   "name": "ev-analytics-dashboard",
-  "homepage": "https://your-username.github.io/ev-analytics-dashboard-assessment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
