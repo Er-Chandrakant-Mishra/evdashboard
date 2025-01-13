@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/evdashboard/static/css/main.f73f5cd2.css",
+    "main.js": "/evdashboard/static/js/main.1d70f10d.js",
+    "index.html": "/evdashboard/index.html",
+    "main.f73f5cd2.css.map": "/evdashboard/static/css/main.f73f5cd2.css.map",
+    "main.1d70f10d.js.map": "/evdashboard/static/js/main.1d70f10d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f73f5cd2.css",
+    "static/js/main.1d70f10d.js"
+  ]
+}
